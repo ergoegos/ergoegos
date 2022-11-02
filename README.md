@@ -1,6 +1,12 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=ergoegos&show_icons=true)
 
+:mailbox: Contact me!
+
+[![Twitter Badge](https://img.shields.io/badge/-@rodrigosendino-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rodrigosendino)](https://twitter.com/ergoegos) 
+
+[![Linkedin Badge](https://img.shields.io/badge/-RodrigoSendinoSanz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ergoegos/) 
+
 <!--
 **ergoegos/ergoegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

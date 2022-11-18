@@ -1,4 +1,5 @@
-Técnico titulado en redes y microinformática (SMR). Curso un ciclo formativo de grado superior en lenguajes de programación (DAM). Estudio lenguas extranjeras y lenguajes de programación.
+I like foreign languages and programming languages. I am an average network and microinformatics technician (SMR), on my way to becoming a senior technician in the development of multiplatform applications (DAM).
+🌱 I’m currently learning Java Spring Framework
 
 <!--
 **ergoegos/ergoegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

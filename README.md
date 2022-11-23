@@ -1,4 +1,5 @@
-I like foreign languages and programming languages. I am an average network and microinformatics technician (SMR), on my way to becoming a senior technician in the development of multiplatform applications (DAM) I’m currently learning Java Spring Framework and Spring Boot.
+Average microinformatic systems and network technician (MSN), on my way to becoming in a senior technician in the development of multiplatform applications (DMA). I enjoy learning languages and programming languages, contact me if you need assistance in these case of use:
+![image](https://user-images.githubusercontent.com/81053395/203562078-1efb3b56-d815-4f30-9c7c-4d5ea3987a29.png)
 
 <!--
 **ergoegos/ergoegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

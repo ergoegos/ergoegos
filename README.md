@@ -1,6 +1,6 @@
-Average microinformatic systems and network technician (MSN), on my way to become in a senior technician in development of multiplatform applications (DMA). I enjoy learning languages and programming languages, then contact me if you need testting or assistance in these case of use:
-![image](https://user-images.githubusercontent.com/81053395/203562078-1efb3b56-d815-4f30-9c7c-4d5ea3987a29.png)
+DAM : ![image](https://user-images.githubusercontent.com/81053395/203562078-1efb3b56-d815-4f30-9c7c-4d5ea3987a29.png)
 
+Average microinformatic systems and network technician (MSN), on my way to become in a senior technician in development of multiplatform applications (DMA).
 
 
 <!--

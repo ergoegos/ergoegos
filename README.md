@@ -1,19 +1,18 @@
-me ![image](https://user-images.githubusercontent.com/81053395/203562078-1efb3b56-d815-4f30-9c7c-4d5ea3987a29.png)
 
-Average microinformatic systems and network technician (MSN), on my way to become in a senior technician in development of multiplatform applications (DMA).
 
 
 <!--
 **ergoegos/ergoegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://github-readme-stats.vercel.app/api?username=ergoegos&show_icons=true)
+-->
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my projects.
+- 🌱 I’m currently learning Java, Java Spring, Java Swing and JavaScript
+
+- 💬 Ask me about nothing yet.
+- 📫 How to reach me: @ergoegos
+- 😄 Pronouns: person
+- ⚡ Fun fact: pizza
+

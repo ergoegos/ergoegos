@@ -11,6 +11,6 @@
 
 - 💬 Ask me about nothing yet.
 - 📫 How to reach me: @ergoegos
-- 😄 Pronouns: person
+- 😄 Pronouns: earthly
 - ⚡ Fun fact: pizza
 

@@ -6,9 +6,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ergoegos&show_icons=true)
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my projects.
+- 🔭 I’m currently working on my projects and studies.
 - 🌱 I’m currently learning Java, Java Spring, Java Swing and JavaScript
 
 - 💬 Ask me about nothing yet.

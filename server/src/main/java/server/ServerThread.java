@@ -26,7 +26,7 @@ public class ServerThread extends Thread {
 	private ArrayList<String> data;
 
 	public ServerThread(Socket socket) {
-
+		super();
 		this.socket = socket;
 
 		try {
@@ -37,21 +37,25 @@ public class ServerThread extends Thread {
 			System.out.println(e.getMessage());
 
 		}
-	
+		
 	}
 
 	@Override
 	public void run() {
 		
 		try {
+			String s;
+			while (input.read().equalsIgnoreCase("")) {
+				System.out.println("xd");
+			}/*
 			do {
 				// waitting the client data input
 				String string = input.read();
-				
+				System.out.println(string);
 				
 
 				
-				/*/ 
+				 
 				if (data.get(0).equalsIgnoreCase("1")) {
 					// consultar por isbn
 					try {
@@ -89,9 +93,9 @@ public class ServerThread extends Thread {
 
 				}
 
-				*/
+				
 
-			} while (!data.get(0).equalsIgnoreCase("5"));
+			} while (true);*/
 
 			output.write("Hasta pronto, gracias por establecer conexi�n".getBytes());
 			socket.close();

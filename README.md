@@ -1,7 +1,3 @@
-me ![image](https://user-images.githubusercontent.com/81053395/203562078-1efb3b56-d815-4f30-9c7c-4d5ea3987a29.png)
-
-Average microinformatic systems and network technician (MSN), on my way to become in a senior technician in development of multiplatform applications (DMA).
-
 
 <!--
 **ergoegos/ergoegos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,12 +1,9 @@
 package server;
 
-import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 
 import beans.Book;
 
@@ -40,19 +37,19 @@ public class Server {
 			System.out.println("\tPORT: " + listenning.getPort());
 			System.out.println("\tIP: " + listenning.getAddress());
 
+
 			// run until excplicty quiet
 			while (true) {	
 				Socket socket = serverSocket.accept();
-				System.out.println("\nserver socket address "+socket.getLocalSocketAddress());
-				System.out.println("client socket address "+socket.getRemoteSocketAddress());
+				System.out.println("\n\tserver socket address "+socket.getLocalSocketAddress());
+				System.out.println("\tclient socket address "+socket.getRemoteSocketAddress());
 
 				ServerThread thread = new ServerThread(socket);
 				System.out.println(thread);
 				thread.start();
 			}
 			
-
-		} catch (IOException e) {
+		} catch (Exception e) {
 			e.printStackTrace();
 		} 
 	}	

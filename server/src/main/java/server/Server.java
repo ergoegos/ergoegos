@@ -41,11 +41,12 @@ public class Server {
 			// run until excplicty quiet
 			while (true) {	
 				Socket socket = serverSocket.accept();
-				System.out.println("\n\tserver socket address "+socket.getLocalSocketAddress());
-				System.out.println("\tclient socket address "+socket.getRemoteSocketAddress());
-
+				
 				ServerThread thread = new ServerThread(socket);
-				System.out.println(thread);
+				System.out.println("\n\t"+thread);
+				System.out.println("\t\tserver socket address "+socket.getLocalSocketAddress());
+				System.out.println("\t\tclient socket address "+socket.getRemoteSocketAddress());
+				
 				thread.start();
 			}
 			

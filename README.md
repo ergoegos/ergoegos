@@ -1,8 +1,6 @@
 ## Hola mundo
 Estoy aquí porque estudio para ser desarrollador de aplicaciones multiplataforma. Voy saliendo del tutorialhell para abrazar la documentación, los manuales y libros con posits pero sigo siendo un fiel fan de mis mentores digitales. Creo que estoy preparado para empezar en alguna empresa como técnico en prácticas mientras sigo creciendo como persona y profesional del sector.
 
-Estoy cogiendole el tranquillo al github y descubriendo Kotlin y Spring pero me muero de ganas por pillarme el libro de Design Patterns Object Oriented Software y los necesarios para ser un crack.
-
 ### Diselo con badges
 
 #### Lenguajes de programación  

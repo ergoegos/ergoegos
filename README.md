@@ -1,5 +1,5 @@
 ## Hola mundo
-Estoy aquí porque estudio para ser desarrollador de aplicaciones multiplataforma, intentando escapar del tutorialhell me voy refugiando en la  documentación oficial, los manuales y libros con posits pero sigo siendo un fiel fan de mis mentores digitales. Creo que estoy preparado para empezar en alguna empresa como técnico en prácticas mientras sigo creciendo como persona y profesional del sector.
+Estoy aquí porque estudio para ser desarrollador de aplicaciones multiplataforma y porque creo que estoy preparado para empezar en alguna empresa como técnico en prácticas mientras sigo creciendo como persona y profesional del sector. 
 
 #### Lenguajes de programación  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)

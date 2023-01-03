@@ -1,7 +1,7 @@
 ## Hola mundo
 Estoy aquí porque estudio para ser desarrollador de aplicaciones multiplataforma. Voy saliendo del tutorialhell para abrazar la documentación, los manuales y libros con posits pero sigo siendo un fiel fan de mis mentores digitales. Creo que estoy preparado para empezar en alguna empresa como técnico en prácticas mientras sigo creciendo como persona y profesional del sector.
 
-Estoy cogiendole el tranquillo al github y descubriendo Kotlin
+Estoy cogiendole el tranquillo al github y descubriendo Kotlin y Spring pero me muero de ganas por pillarme el libro de Design Patterns Object Oriented Software y los necesarios para ser un crack.
 
 ### Diselo con badges
 
@@ -16,6 +16,9 @@ Estoy cogiendole el tranquillo al github y descubriendo Kotlin
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 #### Experiencias y bases de datos 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)

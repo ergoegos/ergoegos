@@ -1,5 +1,5 @@
 ## Hola mundo
-Estudio para ser desarrollador de aplicaciones multiplataforma y porque estoy preparado para empezar en alguna empresa como técnico en prácticas mientras sigo creciendo como persona y profesional del sector. 
+Estudio para ser desarrollador de aplicaciones multiplataforma y estoy preparado para empezar en alguna empresa como técnico en prácticas mientras sigo creciendo como persona y profesional del sector. 
 
 #### Lenguajes de programación  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
